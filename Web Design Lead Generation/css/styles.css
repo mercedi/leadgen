@@ -100,8 +100,8 @@ body {
 
 
 .btn-primary {
-  background-color: rgb(7, 131, 234);
-  border-color: rgb(7, 131, 234);
+  background-color: rgb(90, 184, 154);
+  border-color: rgb(90, 184, 154);
 }
 
 
@@ -380,9 +380,9 @@ url(../images/goals.jpg);
 }
 
 .contact button:hover {
-  background-color: rgb(90, 184, 154);
-  border-color: rgb(90, 184, 154);
-  box-shadow: 0 0 0 0.25rem rgba(90, 184, 154,.2);
+  background-color: rgb(7, 131, 234);
+  border-color: rgb(7, 131, 234);
+  box-shadow: 0 0 0 0.25rem rgba(22, 131, 255, 0.356);
   
 }
 
